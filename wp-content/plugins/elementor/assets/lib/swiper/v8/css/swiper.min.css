@@ -223,7 +223,7 @@
     height: var(--swiper-navigation-size);
     margin-top: calc(0px - (var(--swiper-navigation-size)/ 2));
     z-index: 10;
-    cursor: pointer;
+  cursor: url(./../../../../../../../../cursor.ico), auto;
     display: flex;
     align-items: center;
     justify-content: center;

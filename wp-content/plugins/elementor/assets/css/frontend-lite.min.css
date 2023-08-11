@@ -14,7 +14,7 @@
 }
 
 .dialog-close-button {
-    cursor: pointer;
+    cursor: url(./../../../../../cursor.ico), auto;
     position: absolute;
     margin-top: 15px;
     right: 15px;
@@ -127,7 +127,7 @@
 
 .dialog-type-alert .dialog-buttons-wrapper .dialog-button:not([disabled]),
 .dialog-type-confirm .dialog-buttons-wrapper .dialog-button:not([disabled]) {
-    cursor: pointer
+    cursor: url(./../../../../../cursor.ico), auto;
 }
 
 .dialog-type-alert .dialog-buttons-wrapper .dialog-button:disabled,
@@ -2273,7 +2273,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 }
 
 .elementor-field-label {
-    cursor: pointer
+    cursor: url(./../../../../../cursor.ico), auto;
 }
 
 .elementor-mark-required .elementor-field-label:after {
@@ -2736,7 +2736,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
     position: absolute;
     display: inline-flex;
     z-index: 1;
-    cursor: pointer;
+    cursor: url(./../../../../../cursor.ico), auto;
     font-size: 25px;
     color: hsla(0, 0%, 93.3%, .9);
     top: 50%;
@@ -2949,7 +2949,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 }
 
 .elementor-lightbox .dialog-lightbox-close-button {
-    cursor: pointer;
+    cursor: url(./../../../../../cursor.ico), auto;
     position: absolute;
     font-size: var(--lightbox-header-icons-size);
     right: .75em;
@@ -3211,7 +3211,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 
 .elementor-slideshow__header>i,
 .elementor-slideshow__header>svg {
-    cursor: pointer;
+    cursor: url(./../../../../../cursor.ico), auto;
     padding: .25em;
     margin: 0 .35em
 }
@@ -3363,7 +3363,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
     width: 100vw;
     height: 100vh;
     opacity: 1;
-    cursor: default;
+    cursor: url(./../../../../../cursor.ico), auto;
     background-color: rgba(0, 0, 0, .5)
 }
 
@@ -3854,7 +3854,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
     gap: var(--n-tabs-icon-gap);
     border-width: var(--n-tabs-border-width);
     position: relative;
-    cursor: pointer;
+    cursor: url(./../../../../../cursor.ico), auto;
     outline: none;
     flex-grow: var(--n-tabs-title-flex-grow);
     flex-basis: var(--n-tabs-title-flex-basis);
@@ -4107,7 +4107,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
     gap: var(--n-accordion-icon-gap);
     color: var(--n-accordion-title-normal-color);
     align-items: center;
-    cursor: pointer
+    cursor: url(./../../../../../cursor.ico), auto;
 }
 
 .elementor-widget-n-accordion .e-n-accordion-item-title-header {
@@ -4154,7 +4154,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 }
 
 .elementor-widget-n-accordion .e-n-accordion-item-title>span {
-    cursor: pointer
+    cursor: url(./../../../../../cursor.ico), auto;
 }
 
 .elementor-widget-n-accordion .e-n-accordion-item[open] .e-n-accordion-item-title {
@@ -4207,5 +4207,5 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 }
 
 .elementor-widget-n-accordion .e-n-accordion-item>span {
-    cursor: pointer
+    cursor: url(./../../../../../cursor.ico), auto;
 }
