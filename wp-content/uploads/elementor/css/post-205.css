@@ -2,6 +2,7 @@
 .elementor-205 .elementor-element.elementor-element-fd6626a:not(.elementor-motion-effects-element-type-background),
 .elementor-205 .elementor-element.elementor-element-fd6626a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: #000000;
+    top: 0;
 }
 
 .elementor-205 .elementor-element.elementor-element-fd6626a {
